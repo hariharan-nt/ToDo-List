@@ -1,0 +1,18 @@
+#container{
+	border: 2px solid gray;
+	width: 360px;
+	margin: 0 auto;
+}
+
+.completed{
+	text-decoration: line-through;
+	color:steelblue;
+}
+
+li span{
+	background-color: red;
+	color: white;
+}
+li{
+	background: steelblue;
+}
